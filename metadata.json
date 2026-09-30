@@ -1,0 +1,6 @@
+{
+  "name": "EduCenter CRM - O'quv Markazi Boshqaruv Tizimi",
+  "description": "Dars jadvali, o'qituvchilar hisobi, talabalar davomati, to'lovlar, o'qituvchi oyligi hisob-kitobi va Excel/PDF eksportli analitika tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
